@@ -1,2 +1,2 @@
 # Data-Analysis-Portfolio
-Data Analysis rojects portfolio
+Data Analysis Projects portfolio
