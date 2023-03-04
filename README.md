@@ -10,10 +10,16 @@ I am Mohamed, I graduated from the College of Computers and Information, Departm
 - Project_no_3 (Visualization to number visitors for datacamp.org)
 - Project_no_4 (Sea level predictor)
 - Project_no_5 (Project_Investigate_No_show_appointments_dataset)
+- Project_no_6 (Evaluate_Performace_Student)
+- project_No_7 (Credit Card)
+- project_No_8 (Mortgages)
+- project_No_9 (Hotel Reservations)
 
 ## used liberary:
 - numpy 
 - pandas
 - matplotlib
 - seaborn
+- plotly
 - scipy
+- sklearn
