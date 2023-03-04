@@ -1,0 +1,51 @@
+ID,Income ($1000),Limit,Rating,Cards,Age,Education (years completed),Gender,Student,Married,Ethnicity
+300,24.919,5051,372,3,76,11,Female,No,Yes,African American
+301,21.786,4632,355,1,50,17, Male,No,Yes,Caucasian
+302,31.335,3526,289,3,38,7,Female,No,No,Caucasian
+303,59.855,4964,365,1,46,13,Female,No,Yes,Caucasian
+304,44.061,4970,352,1,79,11, Male,No,Yes,African American
+305,82.706,7506,536,2,64,13,Female,No,Yes,Asian
+306,24.46,1924,165,2,50,14,Female,No,Yes,Asian
+307,45.12,3762,287,3,80,8, Male,No,Yes,Caucasian
+308,75.406,3874,298,3,41,14,Female,No,Yes,Asian
+309,14.956,4640,332,2,33,6, Male,No,No,Asian
+310,75.257,7010,494,3,34,18,Female,No,Yes,Caucasian
+311,33.694,4891,369,1,52,16, Male,Yes,No,African American
+312,23.375,5429,396,3,57,15,Female,No,Yes,Caucasian
+313,27.825,5227,386,6,63,11, Male,No,Yes,Caucasian
+314,92.386,7685,534,2,75,18,Female,No,Yes,Asian
+315,115.52,9272,656,2,69,14, Male,No,No,African American
+316,14.479,3907,296,3,43,16, Male,No,Yes,Caucasian
+317,52.179,7306,522,2,57,14, Male,No,No,Asian
+318,68.462,4712,340,2,71,16, Male,No,Yes,Caucasian
+319,18.951,1485,129,3,82,13,Female,No,No,Caucasian
+320,27.59,2586,229,5,54,16, Male,No,Yes,African American
+321,16.279,1160,126,3,78,13, Male,Yes,Yes,African American
+322,25.078,3096,236,2,27,15,Female,No,Yes,Caucasian
+323,27.229,3484,282,6,51,11, Male,No,No,Caucasian
+324,182.728,13913,982,4,98,17, Male,No,Yes,Caucasian
+325,31.029,2863,223,2,66,17, Male,Yes,Yes,Asian
+326,17.765,5072,364,1,66,12,Female,No,Yes,Caucasian
+327,125.48,10230,721,3,82,16, Male,No,Yes,Caucasian
+328,49.166,6662,508,3,68,14,Female,No,No,Asian
+329,41.192,3673,297,3,54,16,Female,No,Yes,Caucasian
+330,94.193,7576,527,2,44,16,Female,No,Yes,Caucasian
+331,20.405,4543,329,2,72,17, Male,Yes,No,Asian
+332,12.581,3976,291,2,48,16, Male,No,Yes,Caucasian
+333,62.328,5228,377,3,83,15, Male,No,No,Caucasian
+334,21.011,3402,261,2,68,17, Male,No,Yes,African American
+335,24.23,4756,351,2,64,15,Female,No,Yes,Caucasian
+336,24.314,3409,270,2,23,7,Female,No,Yes,Caucasian
+337,32.856,5884,438,4,68,13, Male,No,No,Caucasian
+338,12.414,855,119,3,32,12, Male,No,Yes,African American
+339,41.365,5303,377,1,45,14, Male,No,No,Caucasian
+340,149.316,10278,707,1,80,16, Male,No,No,African American
+341,27.794,3807,301,4,35,8,Female,No,Yes,African American
+342,13.234,3922,299,2,77,17,Female,No,Yes,Caucasian
+343,14.595,2955,260,5,37,9, Male,No,Yes,African American
+344,10.735,3746,280,2,44,17,Female,No,Yes,Caucasian
+345,48.218,5199,401,7,39,10, Male,No,Yes,Asian
+346,30.012,1511,137,2,33,17, Male,No,Yes,Caucasian
+347,21.551,5380,420,5,51,18, Male,No,Yes,Asian
+348,160.231,10748,754,2,69,17, Male,No,No,Caucasian
+349,13.433,1134,112,3,70,14, Male,No,Yes,Caucasian
